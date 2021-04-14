@@ -3,7 +3,7 @@ name: lookbook3
 on:
   workflow_dispatch:
   schedule:
-     - cron: '5 2-16/2 * * *'
+     - cron: '25 2-16/2 * * *'
   watch:
     types: book
 
